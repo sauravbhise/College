@@ -54,6 +54,9 @@ Array addition threading
 
 ## MA
 
+### Assignment 1
+- [String Palindrome code](https://github.com/sauravbhise/College/blob/saurav/MA/Code/1-palindrome.asm)
+
 ### Assignment 2
 
 Factorial
